@@ -1,5 +1,3 @@
-
-```markdown
 ###CRUD de Libros con SOAP
 
 Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar y Eliminar) de libros como un servicio SOAP, utilizando **Python**, **Spyne** y una base de datos **SQLite**.
