@@ -101,13 +101,8 @@ CRUD_LIBROS/
    python -m venv env
    ```
 4. Activa el entorno virtual:
-   - **Windows**:
      ```bash
      .\env\Scripts\activate
-     ```
-   - **Linux/Mac**:
-     ```bash
-     source env/bin/activate
      ```
 5. Instala las dependencias:
    ```bash
