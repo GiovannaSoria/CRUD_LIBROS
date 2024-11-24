@@ -1,13 +1,12 @@
-Aquí está la versión actualizada del archivo **`README.md`**, incluyendo los pasos para clonar el repositorio que me proporcionaste, para que alguien pueda ejecutarlo en otra computadora:
 
 ```markdown
-# CRUD de Libros con SOAP
+###CRUD de Libros con SOAP
 
 Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar y Eliminar) de libros como un servicio SOAP, utilizando **Python**, **Spyne** y una base de datos **SQLite**.
 
-## Requisitos
+### Requisitos
 
-### Instalar Python 3.11
+#### Instalar Python 3.11
 1. Descargar Python 3.11 desde [Python.org](https://www.python.org/downloads/).
 2. Asegúrate de agregar Python al PATH durante la instalación.
 3. Verificar la versión instalada:
